@@ -1,0 +1,21 @@
+application_id,name,age,annual_income,loan_amount,credit_score,employment_months,existing_debt,payment_history_score,credit_age_months,num_credit_accounts,recent_inquiries,loan_purpose,education_level,marital_status,num_dependents,home_ownership,loan_status
+LA001,John Doe,35,75000,50000,720,48,15000,85,60,5,1,home_improvement,bachelors,married,2,own,approved
+LA002,Jane Smith,28,62000,30000,680,36,8000,78,45,4,2,debt_consolidation,masters,single,0,rent,approved
+LA003,Bob Johnson,42,95000,75000,750,84,25000,90,96,7,0,business,bachelors,married,3,own,approved
+LA004,Alice Brown,31,58000,25000,640,24,12000,70,36,3,3,personal,associate,single,1,rent,rejected
+LA005,Charlie Wilson,45,82000,60000,710,60,18000,82,72,6,1,home_purchase,masters,married,2,rent,approved
+LA006,Diana Garcia,29,48000,20000,620,18,15000,65,24,2,4,medical,high_school,single,0,rent,rejected
+LA007,Frank Martinez,38,105000,80000,780,96,20000,95,120,8,0,business,masters,married,1,own,approved
+LA008,Grace Lee,33,71000,45000,695,42,10000,80,54,5,2,education,bachelors,married,2,rent,approved
+LA009,Henry Davis,50,92000,55000,730,108,22000,88,108,7,1,home_improvement,bachelors,married,3,own,approved
+LA010,Iris Chen,27,54000,28000,650,30,9000,72,30,3,3,car_purchase,bachelors,single,0,rent,rejected
+LA011,Jack Robinson,36,78000,48000,705,54,14000,83,66,5,1,debt_consolidation,associate,married,2,own,approved
+LA012,Karen White,40,88000,65000,740,72,19000,87,84,6,0,business,masters,divorced,1,own,approved
+LA013,Leo Taylor,25,45000,18000,610,12,6000,68,18,2,5,personal,associate,single,0,rent,rejected
+LA014,Mia Anderson,34,69000,42000,690,48,11000,79,48,4,2,home_improvement,bachelors,married,1,rent,approved
+LA015,Nathan Thomas,47,98000,70000,760,96,23000,92,102,8,0,investment,masters,married,2,own,approved
+LA016,Olivia Moore,30,63000,35000,675,36,10000,76,42,4,2,wedding,bachelors,engaged,0,rent,approved
+LA017,Paul Jackson,52,110000,85000,790,120,28000,94,132,9,0,business,phd,married,2,own,approved
+LA018,Quinn Harris,26,49000,22000,630,24,8000,69,24,3,4,education,bachelors,single,0,rent,rejected
+LA019,Rachel Martin,39,85000,58000,725,66,17000,85,78,6,1,home_purchase,masters,married,3,rent,approved
+LA020,Sam Thompson,44,91000,62000,745,84,21000,89,90,7,0,investment,bachelors,married,2,own,approved
