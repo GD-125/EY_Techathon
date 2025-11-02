@@ -135,19 +135,3 @@ npm start
 ✅ Admin dashboard
 ✅ Analytics & reporting
 
-## 📖 Documentation
-
-See `/docs` for comprehensive documentation:
-- API Documentation
-- Architecture Guide
-- Security Best Practices
-- Deployment Guide
-- User Manual
-
-## 🔧 Configuration
-
-See `.env.example` for configuration options
-
-## 📄 License
-
-Proprietary - Tata Capital
